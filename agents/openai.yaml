@@ -1,0 +1,4 @@
+interface:
+  display_name: "美漫斜切拼接封面"
+  short_description: "用粗黑斜切分镜和美漫墨线制作手机可读的社媒封面与海报"
+  default_prompt: "用 $produce-comic-panel-cover 为这期内容做一张美漫斜切拼接封面，按本系列约定排标题，给人物和关键道具留出完整画格。"
