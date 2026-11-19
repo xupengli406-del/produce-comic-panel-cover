@@ -24,3 +24,20 @@
 [《AI 产品怎么选？》已选竖版](https://github.com/xupengli406-del/edit-multi-person-interview-video/blob/main/examples/ai-products/cover-3x4.png)可用于观察分镜与墨线。示例中的人物、产品、颜色和位置不作为下一张的固定值；漫画成图也不能替代真实身份参考。
 
 输入素材、字体、品牌标识与外部服务按各自授权使用。本仓库不附带原始人物照片，也不承诺点击率或传播效果。
+
+## 实际案例：AI Native 新时代列车（主视觉节选）
+
+![AI Native 新时代列车主视觉节选](examples/poster-hero.png)
+
+- **实际输入**：以“AI Native 新时代列车”为主题，结合“骨头男的 AI 学习库”品牌文字和列车主体制作宣传海报。
+- **视觉处理**：将漫画人物场景与完整列车用粗黑斜切线拼接，标题放在独立顶栏，品牌信息另成一块。
+- **检查结果**：人物动作与列车形体保持连贯，斜切线和顶栏避开关键主体，主标题完整可读。 此处展示已确认成图的上部主视觉节选，尺寸为1032×504；示例展示图像与文字的组织方式，完整海报的其他信息按任务另排。
+
+## 海报制作与编辑
+
+按本次内容与想要的视觉选择，保留已确认的主体和文字要求：
+
+- [套色印刷海报](https://github.com/xupengli406-del/produce-screenprint-poster)：需要套色印刷、纸张颗粒和大色块视觉的图文或活动海报。
+- [立体收藏玩具海报](https://github.com/xupengli406-del/produce-collectible-toy-poster)：需要立体玩具质感、清楚形体与空间层次的主题海报。
+- [夜行电影海报](https://github.com/xupengli406-del/produce-night-cinema-poster)：需要夜景氛围、光影和场景叙事的电影感海报。
+- [美漫斜切拼接封面](https://github.com/xupengli406-del/produce-comic-panel-cover)：需要把人物、场景或物件用斜切分镜组织起来的封面与海报。
